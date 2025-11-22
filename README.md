@@ -10,6 +10,8 @@
 A Computer Vision application that detects the presence of helipads in satellite imagery using Deep Learning. 
 
 **🔴 [Live Demo: Click Here to Try the App](https://helipad-detection-juhb9q9k7c8zzspwhekbcn.streamlit.app/)**
+**🔴 [Kaggle: Click Here to run the notebook](https://www.kaggle.com/code/moezzouarip2m/notebook70ace3d56c/notebook)**
+
 
 ---
 
@@ -36,16 +38,4 @@ The core of the application is a fine-tuned **ResNet50** Deep Residual Network.
 *   **Head:** Custom fully connected layers with Dropout (0.4) to prevent overfitting.
 *   **Loss Function:** BCEWithLogitsLoss for numerical stability.
 
----
-
-## 💻 Local Installation
-
-If you want to run this app on your own machine, follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/helipad-detector.git
-cd helipad-detector
-
-lien kaggle: https://www.kaggle.com/code/moezzouarip2m/notebook70ace3d56c/notebook
 
