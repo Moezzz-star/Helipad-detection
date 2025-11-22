@@ -1,0 +1,36 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+helipad/
+env/
+.helipad/
+.env/
+
+# Python virtual environment directories
+*.egg-info/
+dist/
+build/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+
+# Streamlit cache (optional)
+.streamlit/
+
+# Other temporary files
+*.tmp
+*.bak
